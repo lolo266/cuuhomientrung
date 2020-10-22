@@ -89,7 +89,8 @@ td.field-get_note {
 
 @media screen and (max-width: 1024px) {
     #changelist-filter {
-        width: 100% !important;
+        width: 100%!important;
+        position: static !important;
     }
 }
 
